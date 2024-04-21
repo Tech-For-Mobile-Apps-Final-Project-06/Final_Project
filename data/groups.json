@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "India",
+    "image": "https://media.istockphoto.com/id/1010240892/photo/the-spectacular-char-minar-during-the-blue-hour.webp?b=1&s=170667a&w=0&k=20&c=LEfYTjJ0knYjVZd9EaQ0rHNB5TWnKSScECIjtWd34bE=",
+    "rating": 4.7,
+    "reviews": 1450
+  },
+  {
+    "id": "2",
+    "name": "New York",
+    "image": "https://media.istockphoto.com/id/1439643582/photo/new-york-city-skyline-and-statue-of-liberty-at-dusk.webp?b=1&s=170667a&w=0&k=20&c=J3sQy3x92bNm5be8DGQjJ2fhj9_EWSGm_v0NW7fNcvk=",
+    "rating": 4.8,
+    "reviews": 650
+  },
+  {
+    "id": "3",
+    "name": "Singapore",
+    "image": "https://plus.unsplash.com/premium_photo-1697730373939-3ebcaa9d295e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2luZ2Fwb3JlJTIwY2l0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "rating": 4.9,
+    "reviews": 550
+  }
+]

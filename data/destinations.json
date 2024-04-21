@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Mountain Retreat",
+    "image": "https://images.unsplash.com/photo-1579525006336-c8919e3dc770?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW91bnRhaW4lMjByZXNvcnR8ZW58MHx8MHx8fDA%3D",
+    "description": "Experience the tranquility of a mountain retreat surrounded by majestic peaks, lush forests, and cozy cabins.",
+    "rating": 4.8,
+    "price": "120",
+    "duration": "4",
+    "location": "Switzerland",
+    "category": "Mountains"
+  },
+  {
+    "id": "2",
+    "name": "Lakeside Getaway",
+    "image": "https://images.unsplash.com/photo-1508899005055-fb1677e7b887?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Retreat to a peaceful lakeside paradise surrounded by clear waters, lush forests, and charming cottages.",
+    "rating": 4.9,
+    "price": "180",
+    "duration": "5",
+    "location": "Canada",
+    "category": "Lakes"
+  },
+  {
+    "id": "3",
+    "name": "Urban Oasis",
+    "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?q=80&w=3452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": " Discover an urban oasis in the heart of the city, offering modern comforts, vibrant nightlife, and cultural experiences.",
+    "rating": 4.5,
+    "price": "150",
+    "duration": "2",
+    "location": "New York City, USA",
+    "category": "Cities"
+  },
+  {
+    "id": "4",
+    "name": "Whispering Woods Retreat",
+    "image": "https://images.unsplash.com/photo-1574288339398-531d55fd84f3?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Find solace in the tranquil embrace of whispering woods, where ancient trees and hidden streams beckon the soul.",
+    "rating": 4.9,
+    "price": "140",
+    "duration": "3",
+    "location": "USA",
+    "category": "Forests"
+  },
+  {
+    "id": "5",
+    "name": "Sapphire Shores Beach Resort",
+    "image": "https://plus.unsplash.com/premium_photo-1681223447383-402912b83029?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Experience the epitome of luxury beachfront living with sapphire waters, pristine sands, and world-class amenities.",
+    "rating": 4.7,
+    "price": "150",
+    "duration": "3",
+    "location": "Bahamas",
+    "category": "Beaches"
+  }
+]

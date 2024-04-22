@@ -43,3 +43,9 @@ In this assignment, we developed the travel app for the travel to destination wh
 ### When we select the any destination we get the details of the destination and payment option with other attributes associated to it and can bookmark from there too.
 
 ![Option](images/Option.jpeg)
+
+
+
+### HOW TO RUN
+
+Open Visual Studio Code and click on Source Control (Ctrl+Shift+G) and click on Clone Repository, Copy the Repository Link and Open the Terminal(Ctrl+`) and then Use "npm install yarn or npm install" then "npm start" and then Click on desired way to view thw application.
